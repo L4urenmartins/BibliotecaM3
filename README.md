@@ -34,7 +34,7 @@ Este banco de dados pode ser utilizado para:
 - **Obter detalhes sobre os relacionamentos entre os elementos.**
 - **Realizar consultas complexas para encontrar livros de determinados autores, editoras ou categorias.**
 
-## Como Utilizar
+## Como Utilizar 
 
 1. Clone este repositório para sua máquina local.
 2. Importe o arquivo SQL fornecido no MySQL Workbench ou em outro cliente MySQL.
